@@ -1,0 +1,229 @@
+div{
+    list-style: height 1.6;
+}
+header{
+    border: solid 1px black;
+    float: left;
+  width: 350px;
+}
+nav{
+    
+    float:left; 
+    font-size: 16px;
+ margin-bottom: 70px;
+}
+
+ul{
+    list-style: none;
+}
+nav li{
+    float: right;
+padding: 50px;
+}
+
+.slogan{
+    color: white;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.ti-zu{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.ti-zu2{
+    font-size: 25px;
+}
+.about{
+    text-align: center;
+}
+.englishtitle{
+    font-size: 24px;
+    color: #ffd61a;
+    padding: 60px 0px 30px 0px;
+    font-weight: bold;
+}
+.about5{
+    padding-bottom: 60px;
+}
+.about1{
+    padding-bottom: 30px;
+}
+.about2{
+    padding-bottom: 40px;
+}
+.about3{
+    padding-bottom: 40px;
+}
+.about4{
+    padding-bottom: 40px;
+}
+
+.Course{
+    padding-top: 60px;
+   text-align: center;
+}
+.Course1{
+    font-weight: bold;
+    padding-bottom: 30px;
+    font-size: 24px;
+}
+.Course2{
+    padding-bottom: 60px;
+}
+.Courseimage{
+    background-color: #fafafa;
+    display:flex;
+    width: 100%;
+
+}
+.farm1{
+    width: 50%;
+
+}
+.farm1 img{
+    width:100%;
+}
+.farm2{
+    width: 50%;
+    position: relative;left:120px;top:120px;
+}
+.farm3{
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+.NEWS{
+    text-align: center;
+}
+.NEWS2{
+    color: #ffd61a;
+    padding: 60px 0px 30px 0px;
+    font-weight: bold;
+}
+.NEWS4:hover{
+    background-color: yellow;
+}
+.Ja{
+    padding-bottom: 60px ;
+}
+.NEWS li{
+    display: inline-block;
+}
+.more-box{
+    margin: 60px auto;
+    border: 1px solid #333333;
+    padding-top: 30px;
+    background-color: #ffd61a;
+    height: 60px;
+    width: 300px;
+    display: flex;
+}
+.more{
+    margin-left: 130px;
+    text-decoration: none;
+    color:black;
+    /* background-color: #ffd61a; */
+    }
+    .more:hover{
+        color:lightsalmon;
+    }
+    .style{
+        position: relative;
+    }
+    .Access{
+        background-color: #fafafa;
+        text-align: center;
+    }
+   .Access2{
+       font-size: 24px;
+       font-weight: bold;
+       padding-top: 60px;
+       padding-bottom: 30px;
+   }
+   .table{
+    margin: 60px;
+    padding-left: 300px;
+       
+   }
+   .eng{
+    margin: 120px 0px 30px 0px;
+    font-weight: bold;
+    font-size: 24px;
+}
+.p1{
+    padding-bottom: 60px;
+}
+.p2{
+    padding-bottom: 30px;
+}
+   .company{
+       padding-bottom: 60px;
+   }
+  .p3{
+      padding-bottom: 70px;
+  }
+  .Acedemy ul{
+    display:inline-flex;
+  }
+  .contact{
+      text-align: center;
+      background-color: white;
+  }
+  /* .contact{
+    
+        border:solid 1px red;
+        
+  }
+  .eng{
+    border:solid 1px red;
+  } */
+
+  
+  .table-st{
+      border-color: #bfbfbf;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  .list-item{list-style: none;
+    text-align: left;
+
+  }
+  .label-checkbox{
+    position: relative;
+    padding-left: 15px;
+
+  }
+  /* .contact-form{
+    border:solid 1px red; */
+  /* } */
+  /* table td{
+    border:solid 1px black;
+  } */
+  tr{
+      border-left-style:none;
+      border-right-style: none;
+  }
+  .sub{
+      background-color: #ffd61a;
+      width: 150px;
+      height: 50px;
+      border:none;
+  }
+  .submit{
+margin-top: 30px;
+margin-bottom: 140px;
+  }
+  .submit :hover{
+    color:lightsalmon;
+    cursor:  pointer; 
+}
+
+  footer{
+      background-color: #707070;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      text-align: center;
+  }
